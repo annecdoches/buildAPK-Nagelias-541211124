@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld-Nagelia",
-    "slug": "HelloWorld-Nagelia",
+    "name": "MyApp-Nagelia",
+    "slug": "MyApp-Nagelia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,14 +22,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.nagell.HelloWorldNagelia"
+      "package": "com.nagell.MyAppNagelia"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "e2e9a2f0-b7c9-407f-a275-4d2af4eb737a"
+        "projectId": "92a0ba02-e4f4-4292-ae15-aab2bc353fb7"
       }
     }
   }
